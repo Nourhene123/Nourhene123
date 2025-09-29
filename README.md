@@ -1,6 +1,6 @@
 # Hi there, I'm Nourhene Ferchichi 👋
 
-🌟 **4th-Year Software Engineering Student @ TEKUP | Full-Stack Developer**
+🌟 **5th-Year Software Engineering Student @ TEKUP | Full-Stack Developer**
 
 I'm a results-driven Software Engineering student with hands-on experience in designing and developing scalable full-stack applications. I've contributed to production-ready projects including an Event Management & Space Booking System, an E-commerce Application with Traffic Analytics, and an HR & CV Matching Platform that automates candidate evaluation with skill-based matching.
 
