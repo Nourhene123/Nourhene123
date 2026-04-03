@@ -48,12 +48,6 @@ NLP-based recruitment automation with BERT and semantic matching.
 
 ---
 
-## GitHub Stats
-
-![Nourhene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourhene123&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhene123&layout=compact&theme=default&hide_border=true)
-
 ---
 
 ## About Me
@@ -62,4 +56,4 @@ NLP-based recruitment automation with BERT and semantic matching.
 - Scrum Foundation Professional (SFPC) certified — CertiProf, 2024
 - Former Local VP at AIESEC Bizerte, leading teams of 20+ volunteers
 - Languages: Arabic (native) · French (bilingual) · English (professional)
-- Open to internship and junior SE roles worldwide
+- Open to   junior SE roles worldwide
