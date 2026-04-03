@@ -1,57 +1,65 @@
-# Hi there, I'm Nourhene Ferchichi 👋
+# Nourhene Ferchichi
 
-🌟 **5th-Year Software Engineering Student @ TEKUP | Full-Stack Developer**
+**Software Engineering Student @ TEKUP · Full-Stack Developer · AI Enthusiast**
 
-I'm a results-driven Software Engineering student with hands-on experience in designing and developing scalable full-stack applications. I've contributed to production-ready projects including an Event Management & Space Booking System, an E-commerce Application with Traffic Analytics, and an HR & CV Matching Platform that automates candidate evaluation with skill-based matching.
+I build full-stack web apps and AI-powered platforms. Currently exploring
+NLP-based recruitment automation with BERT and semantic matching.
 
-🔹 **Specialties**: Frontend and backend development with Symfony, Spring Boot, Angular, React, and .NET. Skilled in CI/CD pipelines, Docker containerization, and secure authentication using Spring Security.
-
-🔍 **Passionate about** clean code, user-centric design, and performance optimization. I thrive in Agile teams, turning real-world challenges into elegant solutions.
-
----
-
-### 🛠️ Featured Projects
-- **Event Management & Space Booking System**: Built with Symfony, Twig, MySQL, GitLab, and Docker—featuring full-cycle event and space reservation management, secure booking, and CI/CD deployment with unit, functional, and integration testing.
-- **E-commerce Application with Traffic Analytics**: Developed using Spring Boot, Angular, and MySQL, with authentication, product browsing, cart management, order tracking, and a responsive admin dashboard for product management and review moderation.
-- **HR & CV Matching Platform**: Engineered with .NET, Angular, and iText 7—automating CV parsing, skill extraction, and candidate matching with secure data handling and intelligent scoring to streamline HR processes.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nourhene-ferchichi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nourhene123)
 
 ---
 
-### 🧰 Key Technologies & Skills
-- **Frontend**: React, Angular, JavaScript, TypeScript, HTML, CSS
-- **Backend**: .NET, Spring Boot, Symfony, Node.js, NextJS
-- **Databases**: SQL Server, MySQL, PostgreSQL, MongoDB
-- **DevOps**: GitLab, CI/CD, Docker
-- **Other Tools**: iText 7 (PDF Processing)
-- **Project Management**: Agile, Scrum
-- **Other Skills**: Leadership, Communication, Teamwork
+## Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [SmartRecruitAI](https://github.com/Nourhene123/SmartRecruitAI) | Python · BERT · FastAPI · React · PostgreSQL | AI-powered CV matching using semantic similarity and NLP skill extraction |
+| [HR Automation](https://github.com/Nourhene123/HR-Automation-backend-) | .NET · Angular · Ollama/Phi3 · SQL Server | HR platform with AI-driven candidate screening and CV parsing |
+| [Djassku E-commerce](https://github.com/Nourhene123/backend_djasskuwebsite) | Spring Boot · Angular · MySQL | Online store with admin dashboard, order tracking, and auth |
+| [Event Booking](https://github.com/Nourhene123/event_projet) | Symfony · Twig · Docker · MySQL | Event management with space reservations, CI/CD, and testing |
 
 ---
 
-### 🎓 Certifications & Experience
-- **Scrum Foundation Professional Certificate (SFPC)** - CertiProf, 2024
-- **Volunteering**: Local Vice President at AIESEC Bizerte (2024-2025), Conference Manager (Nov 2024), and Conference Organizer (2023-2024), leading teams and coordinating large-scale events.
+## Tech Stack
+
+**Languages:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frontend:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Backend:**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Data & DevOps:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 ---
 
-### 🌐 Languages
-- English: Professional
-- French: Bilingual
-- Arabic: Native
+## GitHub Stats
+
+![Nourhene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourhene123&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhene123&layout=compact&theme=default&hide_border=true)
 
 ---
 
-### 💡 What I Bring
-- Problem-solver with a fast learning curve
-- Detail-oriented and a strong team player
+## About Me
 
----
-
-### 🌍 Opportunities
-Open to software engineering internship opportunities worldwide!
-
----
-
-### 📫 Connect with Me
-- **GitHub**: [github.com/Nourhene123](https://github.com/Nourhene123)
-- **LinkedIn**: [linkedin.com/in/nourhene-ferchichi](https://linkedin.com/in/nourhene-ferchichi)
+- 5th-year Software Engineering student at TEKUP University
+- Scrum Foundation Professional (SFPC) certified — CertiProf, 2024
+- Former Local VP at AIESEC Bizerte, leading teams of 20+ volunteers
+- Languages: Arabic (native) · French (bilingual) · English (professional)
+- Open to internship and junior SE roles worldwide
