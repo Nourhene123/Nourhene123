@@ -86,7 +86,8 @@
 
 <div align="center">
 
-![Nourhene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourhene123&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhene123&layout=compact&theme=default&hide_border=true)
+![Nourhene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourhene123&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,issues,contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhene123&layout=compact&theme=radical&hide_border=true&langs_count=10)
 
 </div>
