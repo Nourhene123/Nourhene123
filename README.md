@@ -24,7 +24,6 @@
 - 💼 **Open to junior Full-Stack & AI roles** — Remote, Hybrid, or On-site
 
 ---
----
 
 ## 🎓 Featured Work — Subul (AI Learning Platform)
 
