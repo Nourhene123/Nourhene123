@@ -24,7 +24,38 @@
 - 💼 **Open to junior Full-Stack & AI roles** — Remote, Hybrid, or On-site
 
 ---
+---
 
+## 🎓 Featured Work — Subul (AI Learning Platform)
+
+<div align="center">
+
+**Smartovate | سمارتوفيت** · Software Engineering Intern (AI & FullStack) · Jan – Jun 2026
+🔒 *Private company repository — architecture below, code available on request*
+
+</div>
+
+An AI-powered education platform where a pipeline of **8 specialized agents** generates personalized certification roadmaps (IoT, Cloud, AI, Cybersecurity) based on each learner's level, pace, and goals — built on a microservices architecture and deployed on AWS.
+
+**🤖 8-Agent AI Pipeline**
+- **Assessment Generator** — 20 questions/domain via 4 parallel LLM calls, scores dominant domain + skill percentages
+- **Level Quiz Generator** — 10 targeted questions to determine proficiency
+- **ReAct Orchestrator (LangGraph)** — coordinates 5 tools, up to 12 reasoning iterations
+- **Learner Profile Evaluator** — holistic assessment beyond a numeric score
+- **Diagnostic Level Evaluator** — identifies gaps, recommends study strategy
+- **Roadmap Generator** — builds full roadmap from the real Subul course catalog
+- **Roadmap Critic** — scores on 4 criteria, auto-triggers correction below 7/10
+- **Roadmap Evaluator** — final quality check before delivery
+
+**🏗️ Architecture**
+6 microservices (Auth, User, Course, Goals, Learner, AI) · RabbitMQ · PostgreSQL · Azure OpenAI GPT-4o-mini + Azure AI vector search · 6-hour caching for cost control
+
+**☁️ Cloud & DevOps**
+Multi-AZ AWS (public/private VPC subnets) · Amazon EKS via Helm · Amazon ECR · Terraform · GitHub Actions CI/CD (lint, Prisma validation, Jest, auto-deploy)
+
+`Next.js` `NestJS` `TypeScript` `LangGraph` `RAG` `Azure OpenAI` `PostgreSQL` `RabbitMQ` `Docker` `AWS EKS` `Terraform`
+
+---
 ## 🔥 Featured Projects
 
 | Project | Stack | Description |
