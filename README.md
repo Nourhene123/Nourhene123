@@ -67,6 +67,7 @@ An AI-powered education platform where a pipeline of **8 specialized agents** ge
 | [**University Management**](https://github.com/Nourhene123/UniversityManagementAppBackend) | Spring Boot 3.5 · Angular 16 · PostgreSQL · Spring Security · JWT | LMD-compliant academic platform with RBAC, guided enrollment, and grade analytics. **+40% administrative efficiency** |
 | [**HR Automation**](https://github.com/Nourhene123/HR-Automation-backend-) | .NET · Angular · Ollama · SQL Server · NLP | AI-assisted HR platform — NLP CV parsing, candidate scoring, employee portals. **Automated 80% of CV screening** |
 | [**MultiAgent Roadmap**](https://github.com/Nourhene123/MultiAgent-Roadmap) | LangGraph · Azure OpenAI · FastAPI · Next.js | Personal AI project — multi-phase assessment system generating personalized cloud/tech learning roadmaps |
+| [**This Portfolio**](https://portfolio-nourheneferchichi.vercel.app) · [repo](https://github.com/Nourhene123/Portfolio) | React 19 · TypeScript · Tailwind CSS 4 · Framer Motion | Built from scratch — deterministic SSR-safe animations, custom hooks, lazy-loaded sections, full keyboard/`prefers-reduced-motion` accessibility support |
 
 ---
 
@@ -111,15 +112,3 @@ An AI-powered education platform where a pipeline of **8 specialized agents** ge
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nourhene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourhene123&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,issues,contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhene123&layout=compact&theme=radical&hide_border=true&langs_count=10)
-
-</div>
