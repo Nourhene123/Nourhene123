@@ -2,9 +2,9 @@
 
 # Nourhene Ferchichi
 
-**Junior Full-Stack & AI Developer**
+**Software & AI Engineer** · M.Eng. Software Engineering & Information Systems
 
-Building production AI systems with LangGraph · RAG · LLMs · Next.js · Nestjs · Spring Boot . Angular 
+Multi-agent AI systems (LangGraph · RAG · LLM orchestration) shipped to production on AWS — with Next.js, NestJS, Spring Boot & Angular underneath
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nourhene-ferchichi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8C4555?style=flat&logo=vercel&logoColor=white)](https://portfolio-nourheneferchichi.vercel.app)
@@ -16,12 +16,25 @@ Building production AI systems with LangGraph · RAG · LLMs · Next.js · Nestj
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year Software Engineering student @ TEKUP University
-- 🚀 **Currently:** Software Engineering Intern (AI & FullStack) @ **Smartovate** — building *Subul*, an AI-powered adaptive learning platform with LangGraph agents, RAG pipelines, and microservices architecture
-- 🤖 I build real AI systems — not demos. Multi-agent workflows, semantic search, LLM orchestration
-- 🏆 Scrum Foundation Professional (SFPC) · Former VP @ AIESEC Bizerte (20-person team)
-- 🌍 Arabic (native) · French (bilingual) · English (professional)
-- 💼 **Open to junior Full-Stack & AI roles** — Remote, Hybrid, or On-site
+- 🤖 **Currently:** Full-Stack & AI Engineer, Graduation Internship @ **SmartOvate** (Remote) — shipping *Subul*, an AI-agent learning platform, Jan–Jun 2026
+- 🎓 **M.Eng., Software Engineering & Information Systems** — TEK-UP University (2024–2026)
+- 🚀 3 internships, 3 platforms shipped to real users — coworking bookings, university administration, private clinics
+- 🏆 Scrum Foundation Professional (SFPC) · Former VP, Local Committee @ AIESEC Bizerte (led a 20-person team, +10% participation)
+- 🌍 Arabic (native) · French (fluent) · English (professional)
+- 💼 **Open to Junior Software & AI Engineering roles** — Remote, Hybrid, or On-site
+
+---
+
+## 💼 Experience
+
+**Full-Stack & AI Engineer, Graduation Internship** — SmartOvate (Remote) · *Jan 2026 – Jun 2026*
+Built an 8-agent AI pipeline (LangGraph ReAct orchestrator, 5 coordinated tools) for *Subul*, an AI-driven certification roadmap platform. 6-service microservices architecture (RabbitMQ, Redis, PostgreSQL, Turborepo monorepo), deployed to Amazon EKS with GitHub Actions CI/CD and Grafana monitoring.
+
+**Software Engineering Intern** — NST Group (Tunis, on-site) · *Jun 2025 – Aug 2025*
+Built a university management platform (Spring Boot 3.5 + Angular 16) for the Tunisian LMD system: RBAC via Spring Security, a 7-step enrollment workflow, coefficient-weighted grade calculation, and real-time per-role dashboards. **Improved administrative efficiency by 40%.**
+
+**Full-Stack Developer Intern, Graduation Internship** — Coffee&Brackets (Tunis/Bizerte, on-site) · *Feb 2023 – Jun 2023*
+Built a coworking space reservation platform (React, NestJS, PostgreSQL) with an interactive availability calendar and JWT auth. Automated admin dashboard **cut management time by 50%**, handling 500+ bookings.
 
 ---
 
@@ -29,42 +42,31 @@ Building production AI systems with LangGraph · RAG · LLMs · Next.js · Nestj
 
 <div align="center">
 
-**Smartovate | سمارتوفيت** · Software Engineering Intern (AI & FullStack) · Jan – Jun 2026
 🔒 *Private company repository — architecture below, code available on request*
 
 </div>
 
-An AI-powered education platform where a pipeline of **8 specialized agents** generates personalized certification roadmaps (IoT, Cloud, AI, Cybersecurity) based on each learner's level, pace, and goals — built on a microservices architecture and deployed on AWS.
+An AI-powered education platform where a pipeline of **8 specialized agents** generates personalized certification roadmaps (IoT, Cloud, AI, Cybersecurity) based on each learner's level, pace, and goals.
 
-**🤖 8-Agent AI Pipeline**
-- **Assessment Generator** — 20 questions/domain via 4 parallel LLM calls, scores dominant domain + skill percentages
-- **Level Quiz Generator** — 10 targeted questions to determine proficiency
-- **ReAct Orchestrator (LangGraph)** — coordinates 5 tools, up to 12 reasoning iterations
-- **Learner Profile Evaluator** — holistic assessment beyond a numeric score
-- **Diagnostic Level Evaluator** — identifies gaps, recommends study strategy
-- **Roadmap Generator** — builds full roadmap from the real Subul course catalog
-- **Roadmap Critic** — scores on 4 criteria, auto-triggers correction below 7/10
-- **Roadmap Evaluator** — final quality check before delivery
+**🤖 8-Agent AI Pipeline** — ReAct + LangGraph orchestrator coordinating 5 tools: learner diagnostics, adaptive question generation, RAG-based roadmap generation, self-critique, and conversational negotiation, powered by Azure OpenAI GPT-4o-mini and Azure AI Search.
 
-**🏗️ Architecture**
-6 microservices (Auth, User, Course, Goals, Learner, AI) · RabbitMQ · PostgreSQL · Azure OpenAI GPT-4o-mini + Azure AI vector search · 6-hour caching for cost control
+**🏗️ Architecture** — 6 microservices (Auth, User, Course, Goals, Learner, AI), RabbitMQ messaging, Redis cache, one PostgreSQL database per service, Turborepo monorepo.
 
-**☁️ Cloud & DevOps**
-Multi-AZ AWS (public/private VPC subnets) · Amazon EKS via Helm · Amazon ECR · Terraform · GitHub Actions CI/CD (lint, Prisma validation, Jest, auto-deploy)
+**☁️ Cloud & DevOps** — GitHub Actions CI/CD (Jest, Docker, ECR, Helm) on Amazon EKS, Multi-AZ (VPC, NAT Gateway, ELB), Grafana monitoring.
 
-`Next.js` `NestJS` `TypeScript` `LangGraph` `RAG` `Azure OpenAI` `PostgreSQL` `RabbitMQ` `Docker` `AWS EKS` `Terraform`
+`Next.js` `NestJS` `FastAPI` `LangGraph` `Turborepo` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `AWS EKS` `Terraform` `Helm`
 
 ---
+
 ## 🔥 Featured Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**MultiAgent Roadmap**](https://github.com/Nourhene123/MultiAgent-Roadmap) | LangGraph · Azure OpenAI · FastAPI · Next.js | 6 specialized AI agents for certification planning — profile assessment, roadmap generation, and personalized learning paths |
-| [**MedFlow**](https://github.com/Nourhene123/MedFlow-frontend) | Next.js 15 · Django 5 · Stripe · K8s · BioMistral | Healthcare SaaS — multi-tenant clinic management with 5-role RBAC, real-time WebSockets, AI diagnostics, deployed on Amazon EKS |
-| [**SmartRecruitAI**](https://github.com/Nourhene123/SmartRecruitAI) | Python · BERT · Sentence-BERT · Elasticsearch · RAG | AI CV-job matching using 768-dim semantic embeddings, kNN search, and Mistral-7B explanations |
-| [**HR Automation**](https://github.com/Nourhene123/HR-Automation-backend-) | .NET · Angular · Ollama/Phi3 · SQL Server | HR platform with AI-driven CV parsing, candidate scoring, and employee engagement portals |
-| [**University Management**](https://github.com/Nourhene123/UniversityManagementAppBackend) | Spring Boot 3.5 · Angular 16 · PostgreSQL · JWT | Academic platform with LMD-compliant workflows, role-based dashboards, and grade analytics |
-| [**Event Booking**](https://github.com/Nourhene123/event_projet) | Symfony · Docker · PHPUnit · CI/CD | Event & space reservation system with full test suite and automated GitLab deployment |
+| [**MedFlow**](https://github.com/Nourhene123/MedFlow-frontend) | Next.js 15 · Django 5/DRF · PostgreSQL · Redis · Stripe · K8s | Multi-tenant clinic SaaS **in production** — 5 RBAC roles, real-time WebSocket appointments, Stripe billing, AI diagnostic chat, deployed on Amazon EKS |
+| [**SmartRecruitAI**](https://github.com/Nourhene123/SmartRecruitAI) | Sentence-Transformers · RAG · NLP · Airflow · Django · Angular | AI CV–job matching — fine-tuned `all-mpnet-base-v2` on 10k+ CV pairs (loss 0.018/2 epochs). **70% less manual screening, +45% match accuracy** |
+| [**University Management**](https://github.com/Nourhene123/UniversityManagementAppBackend) | Spring Boot 3.5 · Angular 16 · PostgreSQL · Spring Security · JWT | LMD-compliant academic platform with RBAC, guided enrollment, and grade analytics. **+40% administrative efficiency** |
+| [**HR Automation**](https://github.com/Nourhene123/HR-Automation-backend-) | .NET · Angular · Ollama · SQL Server · NLP | AI-assisted HR platform — NLP CV parsing, candidate scoring, employee portals. **Automated 80% of CV screening** |
+| [**MultiAgent Roadmap**](https://github.com/Nourhene123/MultiAgent-Roadmap) | LangGraph · Azure OpenAI · FastAPI · Next.js | Personal AI project — multi-phase assessment system generating personalized cloud/tech learning roadmaps |
 
 ---
 
@@ -72,10 +74,9 @@ Multi-AZ AWS (public/private VPC subnets) · Amazon EKS via Helm · Amazon ECR �
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frontend**
@@ -101,14 +102,15 @@ Multi-AZ AWS (public/private VPC subnets) · Amazon EKS via Helm · Amazon ECR �
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-**DevOps & Data**
+**Cloud & DevOps**
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
 
