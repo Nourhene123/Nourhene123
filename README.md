@@ -62,7 +62,7 @@ An AI-powered education platform where a pipeline of **8 specialized agents** ge
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**MedFlow**](https://github.com/Nourhene123/MedFlow-frontend) | Next.js 15 · Django 5/DRF · PostgreSQL · Redis · Stripe · K8s | Multi-tenant clinic SaaS **in production** — 5 RBAC roles, real-time WebSocket appointments, Stripe billing, AI diagnostic chat, deployed on Amazon EKS |
+| [**MedFlow**](https://github.com/Nourhene123/MedFlow-frontend) | Next.js 15 · Django 5/DRF · PostgreSQL · Redis · Stripe · K8s | Multi-tenant clinic SaaS **in production** — 5 RBAC roles, real-time WebSocket appointments, Stripe billing, AI diagnostic chat, deployed on Amazon EKS. *Team of 4 — my role: Full-Stack Engineer & Database Architect* |
 | [**SmartRecruitAI**](https://github.com/Nourhene123/SmartRecruitAI) | Sentence-Transformers · RAG · NLP · Airflow · Django · Angular | AI CV–job matching — fine-tuned `all-mpnet-base-v2` on 10k+ CV pairs (loss 0.018/2 epochs). **70% less manual screening, +45% match accuracy** |
 | [**University Management**](https://github.com/Nourhene123/UniversityManagementAppBackend) | Spring Boot 3.5 · Angular 16 · PostgreSQL · Spring Security · JWT | LMD-compliant academic platform with RBAC, guided enrollment, and grade analytics. **+40% administrative efficiency** |
 | [**HR Automation**](https://github.com/Nourhene123/HR-Automation-backend-) | .NET · Angular · Ollama · SQL Server · NLP | AI-assisted HR platform — NLP CV parsing, candidate scoring, employee portals. **Automated 80% of CV screening** |
