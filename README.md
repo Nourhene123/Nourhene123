@@ -62,6 +62,7 @@ An AI-powered education platform where a pipeline of **8 specialized agents** ge
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [**Power Fitness**](https://github.com/Nourhene123/Power-Fitness) | Spring Boot 4 · Angular 17 · PostgreSQL · JWT · Testcontainers · Playwright | Coaching platform for a real personal-training business — assessment → rule-based 12-week plan generation → coach review workflow with versioning, at-risk client detection. **80 automated tests**, ArchUnit-enforced architecture, CI on every push |
 | [**MedFlow**](https://github.com/Nourhene123/MedFlow-frontend) | Next.js 15 · Django 5/DRF · PostgreSQL · Redis · Stripe · K8s | Multi-tenant clinic SaaS **in production** — 5 RBAC roles, real-time WebSocket appointments, Stripe billing, AI diagnostic chat, deployed on Amazon EKS. *Team of 4 — my role: Full-Stack Engineer & Database Architect* |
 | [**SmartRecruitAI**](https://github.com/Nourhene123/SmartRecruitAI) | Sentence-Transformers · RAG · NLP · Airflow · Django · Angular | AI CV–job matching — fine-tuned `all-mpnet-base-v2` on 10k+ CV pairs (loss 0.018/2 epochs). **70% less manual screening, +45% match accuracy** |
 | [**University Management**](https://github.com/Nourhene123/UniversityManagementAppBackend) | Spring Boot 3.5 · Angular 16 · PostgreSQL · Spring Security · JWT | LMD-compliant academic platform with RBAC, guided enrollment, and grade analytics. **+40% administrative efficiency** |
