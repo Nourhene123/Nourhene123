@@ -68,7 +68,7 @@ An AI-powered education platform where a pipeline of **8 specialized agents** ge
 | [**University Management**](https://github.com/Nourhene123/UniversityManagementAppBackend) | Spring Boot 3.5 · Angular 16 · PostgreSQL · Spring Security · JWT | LMD-compliant academic platform with RBAC, guided enrollment, and grade analytics. **+40% administrative efficiency** |
 | [**HR Automation**](https://github.com/Nourhene123/HR-Automation-backend-) | .NET · Angular · Ollama · SQL Server · NLP | AI-assisted HR platform — NLP CV parsing, candidate scoring, employee portals. **Automated 80% of CV screening** |
 | [**MultiAgent Roadmap**](https://github.com/Nourhene123/MultiAgent-Roadmap) | LangGraph · Azure OpenAI · FastAPI · Next.js | Personal AI project — multi-phase assessment system generating personalized cloud/tech learning roadmaps |
- <sub>🌐 This profile's companion: [portfolio site](https://portfolio-nourheneferchichi.vercel.app) · [source](https://github.com/Nourhene123/Portfolio) — React 19, TypeScript, Tailwind 4, Framer Motion</sub>
+| <sub>🌐 This profile's companion: [portfolio site](https://portfolio-nourheneferchichi.vercel.app) · [source](https://github.com/Nourhene123/Portfolio) — React 19, TypeScript, Tailwind 4, Framer Motion</sub>|
 
 ---
 
