@@ -62,13 +62,13 @@ An AI-powered education platform where a pipeline of **8 specialized agents** ge
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**Power Fitness**](https://github.com/Nourhene123/Power-Fitness) | Spring Boot 4 · Angular 17 · PostgreSQL · JWT · Testcontainers · Playwright | Coaching platform for a real personal-training business — assessment → rule-based 12-week plan generation → coach review workflow with versioning, at-risk client detection. **80 automated tests**, ArchUnit-enforced architecture, CI on every push |
+|  [**Power Fitness**](https://github.com/Nourhene123/Power-Fitness) · 🔗 [**Live demo**](https://power-fitness-two.vercel.app) | Spring Boot 4 · Angular 17 · PostgreSQL · JWT · Testcontainers · Playwright | Coaching platform for a real personal-training business — assessment → rule-based 12-week plan generation → coach review workflow with versioning, at-risk client detection. **80 automated tests**, ArchUnit-enforced architecture, CI on every push. **Deployed** on Vercel + Render (Docker) + Neon Postgres |
 | [**MedFlow**](https://github.com/Nourhene123/MedFlow-frontend) | Next.js 15 · Django 5/DRF · PostgreSQL · Redis · Stripe · K8s | Multi-tenant clinic SaaS **in production** — 5 RBAC roles, real-time WebSocket appointments, Stripe billing, AI diagnostic chat, deployed on Amazon EKS. *Team of 4 — my role: Full-Stack Engineer & Database Architect* |
 | [**SmartRecruitAI**](https://github.com/Nourhene123/SmartRecruitAI) | Sentence-Transformers · RAG · NLP · Airflow · Django · Angular | AI CV–job matching — fine-tuned `all-mpnet-base-v2` on 10k+ CV pairs (loss 0.018/2 epochs). **70% less manual screening, +45% match accuracy** |
 | [**University Management**](https://github.com/Nourhene123/UniversityManagementAppBackend) | Spring Boot 3.5 · Angular 16 · PostgreSQL · Spring Security · JWT | LMD-compliant academic platform with RBAC, guided enrollment, and grade analytics. **+40% administrative efficiency** |
 | [**HR Automation**](https://github.com/Nourhene123/HR-Automation-backend-) | .NET · Angular · Ollama · SQL Server · NLP | AI-assisted HR platform — NLP CV parsing, candidate scoring, employee portals. **Automated 80% of CV screening** |
 | [**MultiAgent Roadmap**](https://github.com/Nourhene123/MultiAgent-Roadmap) | LangGraph · Azure OpenAI · FastAPI · Next.js | Personal AI project — multi-phase assessment system generating personalized cloud/tech learning roadmaps |
-| [**This Portfolio**](https://portfolio-nourheneferchichi.vercel.app) · [repo](https://github.com/Nourhene123/Portfolio) | React 19 · TypeScript · Tailwind CSS 4 · Framer Motion | Built from scratch — deterministic SSR-safe animations, custom hooks, lazy-loaded sections, full keyboard/`prefers-reduced-motion` accessibility support |
+ <sub>🌐 This profile's companion: [portfolio site](https://portfolio-nourheneferchichi.vercel.app) · [source](https://github.com/Nourhene123/Portfolio) — React 19, TypeScript, Tailwind 4, Framer Motion</sub>
 
 ---
 
@@ -113,3 +113,5 @@ An AI-powered education platform where a pipeline of **8 specialized agents** ge
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
